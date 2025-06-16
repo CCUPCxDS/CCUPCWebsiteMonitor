@@ -3,8 +3,6 @@ owner: CCUPCxDS
 repo: CCUPCWebsiteMonitor
 
 sites:
-  - name: CCUPC Website
-    url: https://ccupcxds.csie.io/
   - name: CCUPC Practice Domjudge
     url: https://ccupc.csie.io/
 
